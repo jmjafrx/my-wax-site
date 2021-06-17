@@ -21,7 +21,7 @@
 title:            'JMJ Fern Collection'
 description:      'test trial site DreamLab21'
 url:              ' '
-baseurl:          ' '
+baseurl:          '/my-wax-site'
 copyright:        'Public domain. Pirate life for me.'
 logo:             '/assets/logo.png'
 
