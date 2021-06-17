@@ -14,6 +14,8 @@ The collection items in this demo are from around the world. We are legion.
 
 *We are legion.*
 
+**Testing out my git commit.**
+
 
 ### Browse the Collection
 
